@@ -1,0 +1,18 @@
+body,
+form {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	margin: 10;
+}
+input {
+	margin: 10px;
+}
+
+#job-listing {
+	height: auto;
+	width: 100%;
+	background-color: black;
+	color: white;
+}
